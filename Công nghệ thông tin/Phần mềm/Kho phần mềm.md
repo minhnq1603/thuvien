@@ -16,8 +16,8 @@
 
 [Adblock Plus](https://adblockplus.org/)
 # Nén và giải file
-1. [7-zip](https://www.7-zip.org/a/7z2301-arm64.exe)
-2. [WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-624.exe)
+[7-zip](https://www.7-zip.org/a/7z2301-arm64.exe)
+[WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-624.exe)
 # Microsoft Office
 ## Office 2016
 ### Ngôn ngữ tiếng Anh
