@@ -1,12 +1,19 @@
 # Trình duyệt web
 [Microsoft EDGE](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
+
 [Google Chrome](https://www.google.com/chrome/)
+
 [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 [Cốc Cốc](https://files.coccoc.com/browser/download/vi?plat=win&arch=x64)
+
 [Opera](https://www.opera.com/computer/thanks?ni=stable&os=windows)
+
 [Brave](https://laptop-updates.brave.com/download/BRV011?bitness=64)
+
 ## Extension
 [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
+
 [Adblock Plus](https://adblockplus.org/)
 # Nén và giải file
 1. [7-zip](https://www.7-zip.org/a/7z2301-arm64.exe)
