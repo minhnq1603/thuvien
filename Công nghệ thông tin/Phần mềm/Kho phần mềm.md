@@ -15,7 +15,7 @@
 [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
 [Adblock Plus](https://adblockplus.org/)
-# Nén và giải file
+# Nén và giải nén
 [7-zip](https://www.7-zip.org/a/7z2301-arm64.exe)
 
 [WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-624.exe)
