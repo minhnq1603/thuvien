@@ -8,30 +8,23 @@
 
 [Word 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/WordRetail.img) | [Excel 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ExcelRetail.img) | [PowerPoint 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/PowerPointRetail.img) | [Outlook 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/OutlookRetail.img) | [Publisher 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/PublisherRetail.img) | [Access 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/AccessRetail.img) | [Project 2016 Standard](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProjectStdRetail.img) | [Project 2016 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProjectProRetail.img) | [Visio 2016 Standard](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/VisioStdRetail.img) | [Visio 2016 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/VisioProRetail.img)
 ### Tiếng Việt
-[Office 2016 Home and Business](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/HomeBusinessRetail.img)
+[Office 2016 Home and Business](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/HomeBusinessRetail.img) | [Office 2016 Home and Student](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/HomeStudentRetail.img) | [Office 2016 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/ProfessionalRetail.img) | [Office 2016 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/ProPlusRetail.img) 
 
-[Office 2016 Home and Student](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/HomeStudentRetail.img)
-
-[Office 2016 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/ProfessionalRetail.img)
-
-[Office 2016 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/ProPlusRetail.img)
-
-[Word 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/WordRetail.img)
-
-[Excel 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/ExcelRetail.img)
-
-[PowerPoint 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/PowerPointRetail.img)
-
-[Outlook 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/OutlookRetail.img)
-
-[Publisher 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/PublisherRetail.img)
-
-[Access 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/AccessRetail.img)
+[Word 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/WordRetail.img) | [Excel 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/ExcelRetail.img) | [PowerPoint 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/PowerPointRetail.img) | [Outlook 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/OutlookRetail.img) | [Publisher 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/PublisherRetail.img) | [Access 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/AccessRetail.img)
 ## Office 2019
-[Tiếng Anh]() | [Tiếng Việt]()
+### Tiếng Anh
+[Office 2019 Home and Business](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeBusiness2019Retail.img) | [Office 2019 Home and Student](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2019Retail.img) | [Office 2019 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Professional2019Retail.img) | [Office 2019 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2019Retail.img)
+
+[Word 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Word2019Retail.img) | [Excel 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Excel2019Retail.img) | [PowerPoint 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/PowerPoint2019Retail.img) | [Outlook 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Outlook2019Retail.img) | [Publisher 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Publisher2019Retail.img) | [Access 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Access2019Retail.img) | [Project 2019 Standard](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProjectStd2019Retail.img) | [Project 2019 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProjectPro2019Retail.img) | [Visio 2019 Standard](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/VisioStd2019Retail.img) | [Visio 2019 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/VisioPro2019Retail.img)
+### Tiếng Việt
+[Office 2019 Home and Business](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/HomeBusiness2019Retail.img) | [Office 2019 Home and Student](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/HomeStudent2019Retail.img) | [Office 2019 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/Professional2019Retail.img) | [Office 2019 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/ProPlus2019Retail.img)
+
+[Word 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/Word2019Retail.img) | [Excel 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/Excel2019Retail.img) | [PowerPoint 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/PowerPoint2019Retail.img) | [Outlook 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/Outlook2019Retail.img) | [Publisher 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/Publisher2019Retail.img) | [Access 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/vi-VN/Access2019Retail.img)
 ## Office 2021
-[Tiếng Anh]() | [Tiếng Việt]()
-## Office 365 Home Premium
-[Tiếng Anh]() | [Tiếng Việt]()
+### Tiếng Anh
+### Tiếng Việt
+## Office 365
+### Tiếng Anh
+### Tiếng Việt
 
 # Đọc file PDF
