@@ -15,7 +15,7 @@ Office 2016/2019/2021:
 
 Sau đó thực hiện lệnh `cscript ospp.vbs /dstatus` để lấy thông tin product key đã cài đặt. Để ký dòng `Last 5 characters of installed product key` chính là thông tin cần lấy
 
-![Go-bo-product-key-cua-Microsoft-Office-01](https://s3-hcm-r1.longvan.net/thuvien/shared/1223/Go-bo-product-key-cua-Microsoft-Office-01.png)
+<span align="center">![Go-bo-product-key-cua-Microsoft-Office-01](https://s3-hcm-r1.longvan.net/thuvien/shared/1223/Go-bo-product-key-cua-Microsoft-Office-01.png)</span>
 # Gỡ bỏ product key
 Để thực hiện gỡ bỏ product key thì thực hiện lệnh `cscript ospp.vbs /unpkey:{5 ký tự cuối vừa lấy ở trên}` và chờ một lát cho đến khi có thông báo `Product key uninstall successful`
 
