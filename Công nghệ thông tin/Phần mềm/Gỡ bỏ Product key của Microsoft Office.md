@@ -17,7 +17,7 @@ Sau đó thực hiện lệnh `cscript ospp.vbs /dstatus` để lấy thông tin
 
 ![Go-bo-product-key-cua-Microsoft-Office-01](https://s3-hcm-r1.longvan.net/thuvien/shared/1223/Go-bo-product-key-cua-Microsoft-Office-01.png)
 # Gỡ bỏ product key
-Để thực hiện gỡ bỏ product key thì thực hiện lệnh `cscript ospp.vbs /unpkey:{**5 ký tự cuối vừa lấy ở trên**}` và chờ một lát cho đến khi có thông báo `Product key uninstall successful`
+Để thực hiện gỡ bỏ product key thì thực hiện lệnh `cscript ospp.vbs /unpkey:{5 ký tự cuối vừa lấy ở trên}` và chờ một lát cho đến khi có thông báo `Product key uninstall successful`
 
 ![Go-bo-product-key-cua-Microsoft-Office-02](https://s3-hcm-r1.longvan.net/thuvien/shared/1223/Go-bo-product-key-cua-Microsoft-Office-02.png)
 
