@@ -1,7 +1,6 @@
 # Nén và giải file
-1. [7-zip](https://www.win-rar.com/postdownload.html?&L=0)
-   
-3. [WinRAR]([https://www.win-rar.com/postdownload.html?&L=0](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-624.exe)https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-624.exe)
+1. [7-zip](https://www.7-zip.org/a/7z2301-arm64.exe)
+2. [WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-624.exe)
    
 # Microsoft Office
 1. Office 2016
