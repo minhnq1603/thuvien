@@ -46,13 +46,17 @@
 [Office 365 Home Premium](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365HomePremRetail.img) | [Office 365 Business](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365BusinessRetail.img) | [Office 365 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img)
 # Đọc file PDF
 [Foxit Reader](https://www.foxit.com/downloads/#Foxit-Reader/)
+
 [Sumatra PDF](https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-64-install.exe)
+
 [Acrobat Reader](https://get.adobe.com/reader/)
 # Dọn dẹp hệ thống
 [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)
 # Quản lý phân vùng
 [MiniTool Partition Wizard Free](https://cdn2.minitool.com/?p=pw&e=pw-free)
+
 [AOMEI Partition Assistant Standard](https://www.aomeitech.com/ss/download/pa/PAssist_Std.exe)
 # Điều khiển từ xa
 [Ultra Viewer](https://www.ultraviewer.net/en/UltraViewer_setup_6.6_en.exe)
+
 [ngrok](https://dashboard.ngrok.com/get-started/setup)
