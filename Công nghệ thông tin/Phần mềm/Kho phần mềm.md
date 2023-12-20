@@ -1,3 +1,13 @@
+# Trình duyệt web
+[Microsoft EDGE](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
+[Google Chrome](https://www.google.com/chrome/)
+[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+[Cốc Cốc](https://files.coccoc.com/browser/download/vi?plat=win&arch=x64)
+[Opera](https://www.opera.com/computer/thanks?ni=stable&os=windows)
+[Brave](https://laptop-updates.brave.com/download/BRV011?bitness=64)
+## Extension
+[Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
+[Adblock Plus](https://adblockplus.org/)
 # Nén và giải file
 1. [7-zip](https://www.7-zip.org/a/7z2301-arm64.exe)
 2. [WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-624.exe)
@@ -35,3 +45,14 @@
 ### Ngôn ngữ tiếng Việt
 [Office 365 Home Premium](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365HomePremRetail.img) | [Office 365 Business](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365BusinessRetail.img) | [Office 365 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img)
 # Đọc file PDF
+[Foxit Reader](https://www.foxit.com/downloads/#Foxit-Reader/)
+[Sumatra PDF](https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-64-install.exe)
+[Acrobat Reader](https://get.adobe.com/reader/)
+# Dọn dẹp hệ thống
+[CCleaner](https://www.ccleaner.com/ccleaner/download/standard)
+# Quản lý phân vùng
+[MiniTool Partition Wizard Free](https://cdn2.minitool.com/?p=pw&e=pw-free)
+[AOMEI Partition Assistant Standard](https://www.aomeitech.com/ss/download/pa/PAssist_Std.exe)
+# Điều khiển từ xa
+[Ultra Viewer](https://www.ultraviewer.net/en/UltraViewer_setup_6.6_en.exe)
+[ngrok](https://dashboard.ngrok.com/get-started/setup)
