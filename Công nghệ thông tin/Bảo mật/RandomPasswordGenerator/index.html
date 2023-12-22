@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" type="text/css" href="//s3-hcm-r1.longvan.net/drive/Shared/randompasswordgenerator/style.css">
+  </head>
+  <body>
+    <div class="cointainer">
+      <div class="title">
+        <h1>Random Password Generator</h1>
+      </div>
+      <div class="CFGbHVCp">
+        <input type="text" id="password" readonly="readonly">
+      </div>
+      <div class="CsKSDmgI">
+        <button class="lglkgkEd" onclick="generatePassword()">Generate</button>
+        <button class="OwDofWQd" id="copyBtn" onclick="copyPassword()">Copy</button>
+      </div>
+      <input type="range" id="lengthInput" min="4" max="30" value="15" oninput="updateLengthValue()">
+      <span id="lengthValue">15</span>
+      <div class="BTyWKSYs">
+        <div class="fpbboHok">
+          <label>
+            <input checked="checked" type="checkbox" id="uppercaseCheckbox">ABC </label>
+          <label>
+            <input checked="checked" type="checkbox" id="lowercaseCheckbox">abc </label>
+          <label>
+            <input checked="checked" type="checkbox" id="numbersCheckbox">123 </label>
+          <label>
+            <input checked="checked" type="checkbox" id="specialCharsCheckbox">!@# </label>
+        </div>
+        <div id="charCount"></div>
+        <div class="WLigetvH">
+          <div id="ABC">OK</div>
+          <div id="abc">OK</div>
+          <div id="num">OK</div>
+          <div id="sym">OK</div>
+        </div>
+      </div>
+      <div class="content">Creating strong, complex and secure passwords can be the best line of defense in protecting your information from being compromised. Here are four best practices: <br>1. <span class="bold">Enhance password complexity</span>: A good rule to follow when constructing your passwords is to ensure that even someone who knows you well wouldn't be able to guess your password in 20 attempts. Using a combination of upper and lowercase letters, non-sequential numbers and special characters creates a greater challenge for anyone attempting to crack it. <br>2. <span class="bold">Extend password length</span>: Even if the password requirement is limited to six to nine characters, expanding it to 12, 16 or more can provide a stronger and more secure password to better protect your accounts. <br>3. <span class="bold">Update passwords regularly</span>: Whether it's every 60 or 90 days, passwords should be changed on a regular basis. Password managers, like BitWarden or 1Password, can help you secure all of your account passwords in one place. Then, all you need to remember is one main password to access your password manager. This can help you better secure all of your password information for each account you have. <br>4. <span class="bold">Implement multi-factor authentication</span>: This method requires at least two different verification methods to prove your identity before you can be granted access to a website, adding an additional layer of protection for your data. <br>By following these best practices and avoiding common password mistakes, you can significantly enhance the security of your personal information and reduce the risk of unauthorized access. Remember, the first line of defense in cybersecurity starts with you. </div>
+    </div>
+    <script src="//s3-hcm-r1.longvan.net/drive/Shared/randompasswordgenerator/script.js"></script>
+  </body>
+</html>
