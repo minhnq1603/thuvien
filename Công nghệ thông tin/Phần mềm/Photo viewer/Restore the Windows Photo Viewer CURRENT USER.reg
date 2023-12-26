@@ -1,9 +1,5 @@
 Windows Registry Editor Version 5.00
 
-; MajorGeeks.Com
-; How to Restore the Windows Photo Viewer on Windows 10
-; https://www.majorgeeks.com/content/page/restore_the_windows_photo_viewer_on_windows_10.html
-
 [HKEY_CURRENT_USER\SOFTWARE\Classes\.bmp]
 @="PhotoViewer.FileAssoc.Tiff"
 
