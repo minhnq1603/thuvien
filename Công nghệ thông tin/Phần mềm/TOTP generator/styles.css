@@ -1,0 +1,48 @@
+.haaobctl {
+    margin: 10px 0;
+    padding: 15px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-top: 3px solid #000;
+    border-radius: 5px;
+}
+.rvnsdkyl {
+    font-family: Roboto-Regular;
+        font-size: 13px;
+}
+.lquclhib {
+    font-family: Roboto-Medium;
+    font-size: 14px;
+    margin: 5px 0;
+}
+.gujzaxcs {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Consolas;
+    margin: 10px 0;
+    width: 15;
+    overflow: hidden;
+    border: 0;
+    outline: none;
+    transition: 0.5s;
+}
+.gujzaxcs:focus {
+    width: 150px;
+}
+.copyButton {
+    border: 0;
+    outline: none;
+    padding: 0;
+    margin: 0;
+    background: none;
+    border-radius: 5px;
+    color: #f88c00;
+    font-size: 20px;
+    position: absolute;
+    right: 100px;
+    top: 12px;
+    cursor: pointer;
+}
+.dmvojaip {
+    position: relative;
+}
