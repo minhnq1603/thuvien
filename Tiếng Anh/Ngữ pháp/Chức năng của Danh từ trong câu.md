@@ -19,7 +19,7 @@ Vị trí: Thường sẽ đứng sau động từ của câu.
 Lưu ý là có một số động từ thì bắt buộc có tân ngữ, còn có một số động từ thì không được có tân ngữ. Đây là một chủ đề khó hơn, nếu bạn muốn tìm hiểu thêm thì bạn có thể học ở bài Nội động từ & Ngoại động từ
 Ví dụ:
 
-* I want to choose **the suitable makeup <u>products</u>** for my skin\*\*. =\*\* Tôi muốn chọn những sản phẩm trang điểm đúng phù hợp cho da của tôi.
+* I want to choose **the suitable makeup <u>products</u>** for my skin. = Tôi muốn chọn những sản phẩm trang điểm đúng phù hợp cho da của tôi.
   → Cụm **the suitable makeup <u>products</u>** là một cụm danh từ và là tân ngữ của động từ **choose**.
 * All students must sign up to get **<u>permission</u>** to attend the workshop. = Tất cả sinh viên phải đăng ký để được phép tham dự buổi hội thảo.
   → Cụm **<u>permission</u>** là một cụm danh từ và là tân ngữ của động từ **get**.
