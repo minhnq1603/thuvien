@@ -11,6 +11,7 @@ Ví dụ:
 * From Monday to Friday, **new <u>episodes</u>** will be aired on the channel. = Từ thứ hai đến thứ sáu, các tập phim mới sẽ được chiếu trên kênh này.
   → Động từ chia thì là will be aired → Cụm new episodes là một cụm danh từ và là chủ ngữ của câu; trong đó, danh từ chính của cụm là chữ episodes. 
   Lưu ý là: from Monday to Friday chỉ là thời gian của hành động, bổ sung ý nghĩa cho cả câu nên chúng ta không xem nó là một phần của chủ ngữ.
+  
   → **Construction will be completed by next week.**
 
 # 2. (Cụm) Danh từ làm tân ngữ của động từ
