@@ -11,7 +11,7 @@ Ví dụ:
 * From Monday to Friday, **new <u>episodes</u>** will be aired on the channel. = Từ thứ hai đến thứ sáu, các tập phim mới sẽ được chiếu trên kênh này.
   → Động từ chia thì là will be aired → Cụm new episodes là một cụm danh từ và là chủ ngữ của câu; trong đó, danh từ chính của cụm là chữ episodes. 
   Lưu ý là: from Monday to Friday chỉ là thời gian của hành động, bổ sung ý nghĩa cho cả câu nên chúng ta không xem nó là một phần của chủ ngữ.
-  → **Construction will be completed by next week.**
+* **Construction will be completed by next week.**
 
 # 2. (Cụm) Danh từ làm tân ngữ của động từ
 
@@ -23,7 +23,7 @@ Ví dụ:
   → Cụm **the suitable makeup <u>products</u>** là một cụm danh từ và là tân ngữ của động từ **choose**.
 * All students must sign up to get **<u>permission</u>** to attend the workshop. = Tất cả sinh viên phải đăng ký để được phép tham dự buổi hội thảo.
   → Cụm **<u>permission</u>** là một cụm danh từ và là tân ngữ của động từ **get**.
-  **I want to choose the suitable makeup products for my skin.**
+* **I want to choose the suitable makeup products for my skin.**
 
 # 3. (Cụm) Danh từ làm tân ngữ của giới từ
 
@@ -35,4 +35,4 @@ Ví dụ:
   → Cụm **my <u>uncle</u>** là một cụm danh từ và là tân ngữ của giới từ **from**.
 * The famous writer wrote about **his unusual <u>childhood</u>** in his new book. = Nhà văn nổi tiếng viết về tuổi thơ bất thường của ông ấy trong quyển sách mới.
   → Cụm **his unusual <u>childhood</u>** là một cụm danh từ và là tân ngữ của giới từ **about**.
-  **My mother has just received a wedding invitation from my uncle.**
+* **My mother has just received a wedding invitation from my uncle.**
